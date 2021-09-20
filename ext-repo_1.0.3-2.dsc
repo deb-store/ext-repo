@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-repo deb admin optional arch=all
 Checksums-Sha1:
- 3c8fa060175c3b7db941793c55d41618fb37cd81 5600 ext-repo_1.0.3.orig.tar.xz
+ cf5bfc41f04d6d6d4422a905ee8be3d648cf61ac 5612 ext-repo_1.0.3.orig.tar.xz
  2db1085d452d8560be81bab42037a32237ef23ef 1028 ext-repo_1.0.3-2.debian.tar.xz
 Checksums-Sha256:
- 51102fa126641ff3fcb6e004507257fcb833de9615e0a0253137680a0610f350 5600 ext-repo_1.0.3.orig.tar.xz
+ 05a2a2fa59e81769f44f1d99a5b7d95ed5341b737fa5961694d3463361a43989 5612 ext-repo_1.0.3.orig.tar.xz
  62ed70d3c6445eb281a03b2f9214f58f155f10bda830d7d7e70327d715a1240f 1028 ext-repo_1.0.3-2.debian.tar.xz
 Files:
- 61411b0b9b85b9e2ac04490b9fe2c12b 5600 ext-repo_1.0.3.orig.tar.xz
+ 14ae1cec45dcb4dca998fb3c3412e187 5612 ext-repo_1.0.3.orig.tar.xz
  3b3964475cc9841a41dc57567cd25ed2 1028 ext-repo_1.0.3-2.debian.tar.xz

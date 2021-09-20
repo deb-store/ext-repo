@@ -12,14 +12,14 @@ Changes:
  .
    * UPD: PostInst script.
 Checksums-Sha1:
- 4592a9a4233e8c0faff5653c6f43094ed286d810 1013 ext-repo_1.0.3-2.dsc
+ 059122a3af7e07ec1ed7092861e6dab6d62468b6 1013 ext-repo_1.0.3-2.dsc
  2db1085d452d8560be81bab42037a32237ef23ef 1028 ext-repo_1.0.3-2.debian.tar.xz
- 59126e2d251daaaf93fbfe179db4e0a0329a33fc 4395 ext-repo_1.0.3-2_source.buildinfo
+ 63509d091cd2ad37b97a7c1d84a91f6d2fa2943f 4395 ext-repo_1.0.3-2_source.buildinfo
 Checksums-Sha256:
- 310d41f719039a622fbe6cac2e56339bc218dd7d459179e53527a7c1f91c93b2 1013 ext-repo_1.0.3-2.dsc
+ 89787785c17aa770c813f7a9d68384a4b276ef33cbcfe8ed906f93194fd8aa7c 1013 ext-repo_1.0.3-2.dsc
  62ed70d3c6445eb281a03b2f9214f58f155f10bda830d7d7e70327d715a1240f 1028 ext-repo_1.0.3-2.debian.tar.xz
- cf9419e0160cdce80be3331f943af152c6ebaa441276fe7ce73727d2b296e8b8 4395 ext-repo_1.0.3-2_source.buildinfo
+ f1effb87b13ffccb48e52a05d79b96a1a85c01c80a92f364a2c42b4a32eb24e9 4395 ext-repo_1.0.3-2_source.buildinfo
 Files:
- 36e78067095410454cc821bc782a07c1 1013 admin optional ext-repo_1.0.3-2.dsc
+ 2dafbf8179cad4ac5af736931edbd536 1013 admin optional ext-repo_1.0.3-2.dsc
  3b3964475cc9841a41dc57567cd25ed2 1028 admin optional ext-repo_1.0.3-2.debian.tar.xz
- 4d388f7854ac63afe2116cfc80b19bdf 4395 admin optional ext-repo_1.0.3-2_source.buildinfo
+ e3b17c7bb7721653bea0f21e5de2689d 4395 admin optional ext-repo_1.0.3-2_source.buildinfo

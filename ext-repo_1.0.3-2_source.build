@@ -10,13 +10,13 @@ dh clean
  dpkg-source -i -b .
 dpkg-source: info: using source format '3.0 (quilt)'
 dpkg-source: info: building ext-repo using existing ./ext-repo_1.0.3.orig.tar.xz
-dpkg-source: warning: ignoring deletion of file percona.list, use --include-removal to override
-dpkg-source: warning: ignoring deletion of file mysql.list, use --include-removal to override
-dpkg-source: warning: ignoring deletion of file php.list, use --include-removal to override
-dpkg-source: warning: ignoring deletion of file mariadb.list, use --include-removal to override
-dpkg-source: warning: ignoring deletion of file percona.gpg, use --include-removal to override
 dpkg-source: warning: ignoring deletion of file php.gpg, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file mysql.list, use --include-removal to override
 dpkg-source: warning: ignoring deletion of file elasticsearch.list, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file percona.gpg, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file percona.list, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file mariadb.list, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file php.list, use --include-removal to override
 dpkg-source: info: building ext-repo in ext-repo_1.0.3-2.debian.tar.xz
 dpkg-source: info: building ext-repo in ext-repo_1.0.3-2.dsc
  dpkg-genbuildinfo --build=source

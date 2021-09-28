@@ -12,14 +12,14 @@ Changes:
  .
    * UPD: PostInst script.
 Checksums-Sha1:
- 059122a3af7e07ec1ed7092861e6dab6d62468b6 1013 ext-repo_1.0.3-2.dsc
- 2db1085d452d8560be81bab42037a32237ef23ef 1028 ext-repo_1.0.3-2.debian.tar.xz
- 63509d091cd2ad37b97a7c1d84a91f6d2fa2943f 4395 ext-repo_1.0.3-2_source.buildinfo
+ fc74a3e4d0fc1dd1d554efe36ac09f7b6233cf54 994 ext-repo_1.0.3-2.dsc
+ f403f344fd390c71d307e918b72d87314683bda6 1016 ext-repo_1.0.3-2.debian.tar.xz
+ 170da1a9c1640ae3647ce6e132c6f822056d6ee3 4392 ext-repo_1.0.3-2_source.buildinfo
 Checksums-Sha256:
- 89787785c17aa770c813f7a9d68384a4b276ef33cbcfe8ed906f93194fd8aa7c 1013 ext-repo_1.0.3-2.dsc
- 62ed70d3c6445eb281a03b2f9214f58f155f10bda830d7d7e70327d715a1240f 1028 ext-repo_1.0.3-2.debian.tar.xz
- f1effb87b13ffccb48e52a05d79b96a1a85c01c80a92f364a2c42b4a32eb24e9 4395 ext-repo_1.0.3-2_source.buildinfo
+ f5615547b6b071ded6d694075407a122d9c99f1b8691532f213c3946a0af2f4e 994 ext-repo_1.0.3-2.dsc
+ e5462d9e89dea202537d542ca4c5df4653b67f70ecf694ed9dbf59d75849cc9d 1016 ext-repo_1.0.3-2.debian.tar.xz
+ ec9f8fc332bb89df2645e484be0391bd08e42970da80d2e367ce3cbb20456287 4392 ext-repo_1.0.3-2_source.buildinfo
 Files:
- 2dafbf8179cad4ac5af736931edbd536 1013 admin optional ext-repo_1.0.3-2.dsc
- 3b3964475cc9841a41dc57567cd25ed2 1028 admin optional ext-repo_1.0.3-2.debian.tar.xz
- e3b17c7bb7721653bea0f21e5de2689d 4395 admin optional ext-repo_1.0.3-2_source.buildinfo
+ c1210d8da80f8e35b83871b8ff9dba79 994 admin optional ext-repo_1.0.3-2.dsc
+ 3ba96fb6a7941a02b57ca78bc97f2319 1016 admin optional ext-repo_1.0.3-2.debian.tar.xz
+ d71e86a3d209d6fed607cb862228ba2d 4392 admin optional ext-repo_1.0.3-2_source.buildinfo

@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-repo
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-repo.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-repo deb admin optional arch=all
 Checksums-Sha1:
- cf5bfc41f04d6d6d4422a905ee8be3d648cf61ac 5612 ext-repo_1.0.3.orig.tar.xz
- 2db1085d452d8560be81bab42037a32237ef23ef 1028 ext-repo_1.0.3-2.debian.tar.xz
+ ed08c061ddb40b16ff4ea7fd53a4e8b6b182d662 5612 ext-repo_1.0.3.orig.tar.xz
+ f403f344fd390c71d307e918b72d87314683bda6 1016 ext-repo_1.0.3-2.debian.tar.xz
 Checksums-Sha256:
- 05a2a2fa59e81769f44f1d99a5b7d95ed5341b737fa5961694d3463361a43989 5612 ext-repo_1.0.3.orig.tar.xz
- 62ed70d3c6445eb281a03b2f9214f58f155f10bda830d7d7e70327d715a1240f 1028 ext-repo_1.0.3-2.debian.tar.xz
+ 5b8576eb18b22c44d2b09d9c4464d43f6e912d18f81efd0e889945e003523ecb 5612 ext-repo_1.0.3.orig.tar.xz
+ e5462d9e89dea202537d542ca4c5df4653b67f70ecf694ed9dbf59d75849cc9d 1016 ext-repo_1.0.3-2.debian.tar.xz
 Files:
- 14ae1cec45dcb4dca998fb3c3412e187 5612 ext-repo_1.0.3.orig.tar.xz
- 3b3964475cc9841a41dc57567cd25ed2 1028 ext-repo_1.0.3-2.debian.tar.xz
+ 31ae7f563c784deda294e940121b0a75 5612 ext-repo_1.0.3.orig.tar.xz
+ 3ba96fb6a7941a02b57ca78bc97f2319 1016 ext-repo_1.0.3-2.debian.tar.xz

@@ -3,14 +3,14 @@ Source: ext-repo
 Architecture: source
 Version: 1.0.3-2
 Checksums-Md5:
- 2dafbf8179cad4ac5af736931edbd536 1013 ext-repo_1.0.3-2.dsc
+ c1210d8da80f8e35b83871b8ff9dba79 994 ext-repo_1.0.3-2.dsc
 Checksums-Sha1:
- 059122a3af7e07ec1ed7092861e6dab6d62468b6 1013 ext-repo_1.0.3-2.dsc
+ fc74a3e4d0fc1dd1d554efe36ac09f7b6233cf54 994 ext-repo_1.0.3-2.dsc
 Checksums-Sha256:
- 89787785c17aa770c813f7a9d68384a4b276ef33cbcfe8ed906f93194fd8aa7c 1013 ext-repo_1.0.3-2.dsc
+ f5615547b6b071ded6d694075407a122d9c99f1b8691532f213c3946a0af2f4e 994 ext-repo_1.0.3-2.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 20 Sep 2021 08:52:52 +0000
+Build-Date: Tue, 28 Sep 2021 14:20:32 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
@@ -138,7 +138,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.36.1-8),
  libxml2 (= 2.9.10+dfsg-6.7),
  libzstd1 (= 1.4.8+dfsg-2.1),
- linux-libc-dev (= 5.10.46-4),
+ linux-libc-dev (= 5.10.46-5),
  login (= 1:4.8.1-1),
  lsb-base (= 11.1.0),
  m4 (= 1.4.18-5),

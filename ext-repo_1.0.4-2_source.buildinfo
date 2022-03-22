@@ -3,14 +3,14 @@ Source: ext-repo
 Architecture: source
 Version: 1.0.4-2
 Checksums-Md5:
- 8e869931c755d4398951fca5f0bbd51f 997 ext-repo_1.0.4-2.dsc
+ e65838b358fd51a614958318467aeecb 997 ext-repo_1.0.4-2.dsc
 Checksums-Sha1:
- fa8573648155854ad098a39df445d63ad2afb9dc 997 ext-repo_1.0.4-2.dsc
+ 69f8ba7f1a459afe9c5a4a6f75ffa638fdc71fb1 997 ext-repo_1.0.4-2.dsc
 Checksums-Sha256:
- 1659ceb97dd6d91af25be5a96d62c5bf1a48a9b23ac9e7b1847691c0d6fd1af0 997 ext-repo_1.0.4-2.dsc
+ c0ee686577a56e2d3a679ded94a490325bd035f2c326eec0d5578ac06f4f6550 997 ext-repo_1.0.4-2.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 22 Mar 2022 12:06:41 +0000
+Build-Date: Tue, 22 Mar 2022 12:10:53 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),

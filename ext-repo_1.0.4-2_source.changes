@@ -12,14 +12,14 @@ Changes:
  .
    * FIX: PostInst script.
 Checksums-Sha1:
- 69f8ba7f1a459afe9c5a4a6f75ffa638fdc71fb1 997 ext-repo_1.0.4-2.dsc
+ 6efe228afb3f9fafbf4f38151f7632111cc17bd3 997 ext-repo_1.0.4-2.dsc
  a747c5df6e530830d4789e96e638dff331f20e35 1076 ext-repo_1.0.4-2.debian.tar.xz
- e02412fd8201fc1e617820f5a4dec7f5c9c008f8 4569 ext-repo_1.0.4-2_source.buildinfo
+ 2acf7cc9cc87f512e684d157de394fc59f918b08 4585 ext-repo_1.0.4-2_source.buildinfo
 Checksums-Sha256:
- c0ee686577a56e2d3a679ded94a490325bd035f2c326eec0d5578ac06f4f6550 997 ext-repo_1.0.4-2.dsc
+ 90ab7ee63a01a4413c1fd06928268f91f2fd61d4de61d5dcd7afe0a824e98357 997 ext-repo_1.0.4-2.dsc
  862e0841e748fe48584c5be77a21906d40e1f85f4d0d1ea9c529c2a0dfc287b9 1076 ext-repo_1.0.4-2.debian.tar.xz
- fb277cfc84f050f6562f2bdb86f66db3aca81229101a1b157b2c8904d7c0eb26 4569 ext-repo_1.0.4-2_source.buildinfo
+ c1f0c3a01f6b35369bb925e50b2ee6eee8c9b6a12f9cc55bebb8e42398f3d255 4585 ext-repo_1.0.4-2_source.buildinfo
 Files:
- e65838b358fd51a614958318467aeecb 997 admin optional ext-repo_1.0.4-2.dsc
+ ccff12c174f190c066b1fb04da91eda7 997 admin optional ext-repo_1.0.4-2.dsc
  1e9bf60c1601564ffdeea8ba7fce175b 1076 admin optional ext-repo_1.0.4-2.debian.tar.xz
- a344c5e4a75e64d03464f6e1ff156d83 4569 admin optional ext-repo_1.0.4-2_source.buildinfo
+ 43c50a25d406db5484d18284aa06ca5e 4585 admin optional ext-repo_1.0.4-2_source.buildinfo
